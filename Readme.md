@@ -6,12 +6,13 @@ Last edited: 06/14/2020
 
 GitHub Gist: ([URL](https://gist.github.com/dannylee8/c1c98ab05b15e3071e2dd34f44d5ff61)) | Embed: `<script src="https://gist.github.com/dannylee8/c1c98ab05b15e3071e2dd34f44d5ff61.js"></script>`
 
-A chart comparing which rules are set by each of these premade configs.  Rule names are linked to their doc pages on ESLint.org. Making the chart was useful for getting familiar with rules, switches, arguments, the choices made by each org, and an exercise in tedium and endurance to decipher the data from the config files to the chart.  
+A chart comparing which ESLint rules ([list of all rules](https://eslint.org/docs/rules/)) are set by each of the premade configuration files provided by ESLint (recommended), AirBnb ([style guide](https://airbnb.io/javascript/), [GitHub repo](https://github.com/airbnb/javascript)), Google ([style guide](https://google.github.io/styleguide/jsguide.html), [GitHub repo](https://github.com/google/eslint-config-google/)), Standard JS ([style guide](https://standardjs.com/rules.html), [GitHub repo](https://github.com/standard/eslint-config-standard))
 
-The easiest to work with was the AirBnB files, which were broken down into separate individual files, according to rule set (e.g. errors, styles, best practices, ecma6, etc).  The hardest to work with was standard, which was alphabetized across all the different rulesets.  Because my chart was separated by rule set, this took more time.  Google's ruleset looks like its neglected and its pretty basic.  ESLint's recommended is short and alphabetized across rules sets.
+ESLint rule names (in the first column) are linked to their respective document pages on ESLint.org. The experience of researching, compiling the choices from each org and getting familiar with rules, switches and arguments was enlightening.  The process was also  an exercise in tedium and a test of endurance and patience.
 
+The easiest configuration to work with was AirBnB.  The settings were broken down into separate individual files, according to rule set (e.g. errors, styles, best practices, ecma6, etc).  The hardest to work with was Standard JS, which was alphabetized, and collected into one set, across all the different rulesets.  Because of the way my chart was designed (i.e. separated by rule set) it took me much more time and effort to navigate through a consolidated ruleset in alphabetical order. Google's ruleset looks like its neglected and its pretty basic, however it IS separated by rule set category and was easy to navigate.  It was also the quickest to work through.  ESLint's recommended is also short, but it was alphabetized across rules sets, however if you work from the [ESLint Rules page](https://eslint.org/docs/rules/) "recommended" rules are marked with a checkmark.
 
-Another option for formatting or in conjunction with ESLint is Prettier ([repo](https://github.com/prettier)).  Its very popular, but it focuses on looks, not syntactical rules.
+(As an aside: There is another option which can be used in leiu or in conjunction with ESLint, which is very popular--Prettier ([repo](https://github.com/prettier)).  It focuses more on looks, rather than syntactical rules, but is worth investigating.
 
 ---
 
