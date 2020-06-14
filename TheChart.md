@@ -9,6 +9,9 @@ If you just wanted the chart without the text and links, use the gist.
 
 ([URL](https://gist.github.com/dannylee8/c1c98ab05b15e3071e2dd34f44d5ff61)) | Embed: `<script src="https://gist.github.com/dannylee8/c1c98ab05b15e3071e2dd34f44d5ff61.js"></script>`
 
+---
+#### What is this?
+
 A chart comparing which ESLint rules ([list of all rules](https://eslint.org/docs/rules/)) are set by each of the premade configuration files provided by ESLint (recommended), AirBnb ([style guide](https://airbnb.io/javascript/), [GitHub repo](https://github.com/airbnb/javascript)), Google ([style guide](https://google.github.io/styleguide/jsguide.html), [GitHub repo](https://github.com/google/eslint-config-google/)), Standard JS ([style guide](https://standardjs.com/rules.html), [GitHub repo](https://github.com/standard/eslint-config-standard))
 
 ESLint rule names (in the first column) are linked to their respective document pages on ESLint.org. The experience of researching, compiling the choices from each org and getting familiar with rules, switches and arguments was enlightening.  The process was also  an exercise in tedium and a test of endurance and patience.
