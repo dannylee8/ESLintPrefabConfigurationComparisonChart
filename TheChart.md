@@ -301,4 +301,4 @@ The easiest configuration to work with was AirBnB.  The settings were broken dow
 
 ---
 
-[Check mark](https://openmoji.org/library/#search=check&emoji=2714)</a> and [Cross mark](https://openmoji.org/library/#search=cross&emoji=274C) icons are courtesy of the [OpenMoji Project](https://openmoji.org/).
+[Check mark](https://openmoji.org/library/#search=check&emoji=2714)</a>, [Cross mark](https://openmoji.org/library/#search=cross&emoji=274C) and [Warn](https://openmoji.org/library/#search=warn&emoji=E08C) icons are courtesy of the [OpenMoji Project](https://openmoji.org/).
