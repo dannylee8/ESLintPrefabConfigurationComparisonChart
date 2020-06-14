@@ -2,7 +2,9 @@
 
 ## ESLint Recommended vs AirBnB vs Google vs Standard
 
-### date: 06/14/2020
+Last edited: 06/14/2020
+
+GitHub Gist: ([URL](https://gist.github.com/dannylee8/c1c98ab05b15e3071e2dd34f44d5ff61)) | Embed: `<script src="https://gist.github.com/dannylee8/c1c98ab05b15e3071e2dd34f44d5ff61.js"></script>`
 
 A chart comparing which rules are set by each of these premade configs.  Rule names are linked to their doc pages on ESLint.org. Making the chart was useful for getting familiar with rules, switches, arguments, the choices made by each org, and an exercise in tedium and endurance to decipher the data from the config files to the chart.  
 
@@ -15,14 +17,18 @@ Another option for formatting or in conjunction with ESLint is Prettier ([repo](
 
 #### Config file links:
 
-- [eslint recommended configs](https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js)
-- [airbnb base configs](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
-- [google config](https://github.com/google/eslint-config-google/blob/master/index.js)
-- [standard js config](https://github.com/standard/eslint-config-standard/blob/master/eslintrc.json)
+- [ESLint recommended configuration file](https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js)
+- [Airbnb base configurations directory](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
+- [Google configuration file](https://github.com/google/eslint-config-google/blob/master/index.js)
+- [Standard JS configuration file](https://github.com/standard/eslint-config-standard)
 
 #### To Do:
 
-- add notes for specific switches and arguments for rules.
+- Add footnotes or tooltips to show details for rules in which a particular option is specified.
+- Add rollover tooltip to show a sample of a rule's syntax.
+- Do an audit to make sure I've gotten all the config files for each org.
+- Edit config files for ESLint's recently deprecated options and make pull request.
+- Create PDF version
 
 ---
 
@@ -294,4 +300,4 @@ Another option for formatting or in conjunction with ESLint is Prettier ([repo](
 
 ---
 
-[Check mark](https://openmoji.org/library/#search=check&emoji=2714), [Cross mark](https://openmoji.org/library/#search=cross&emoji=274C), [Warn](https://openmoji.org/library/#search=warn&emoji=E08C) icons are courtesy of the [OpenMoji Project](https://openmoji.org/).
+[Check mark](https://openmoji.org/library/#search=check&emoji=2714)</a> and [Cross mark](https://openmoji.org/library/#search=cross&emoji=274C) icons are courtesy of the [OpenMoji Project](https://openmoji.org/).
